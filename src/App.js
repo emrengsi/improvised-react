@@ -1,10 +1,11 @@
-
-import Button from 'react-bootstrap/Button'
+import Header from './comps/Header'
+import Footer from './comps/Footer'
 
 function App() {
   return (
     <div className="App">
-      <Button>Is this a bootstrap button?</Button>
+      <Header />
+      <Footer />
     </div>
   );
 }
