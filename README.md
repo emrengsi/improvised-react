@@ -2,7 +2,7 @@
 
 #### TODO: React Basics
 - [x] Create react app. DONE
-- [ ] Create Components
+- [x] Create Components
 - [ ] Create Styling Example
 - [ ] Create Props Example
 - [ ] Create Proptypes Example
