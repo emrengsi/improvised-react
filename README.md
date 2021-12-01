@@ -3,7 +3,7 @@
 #### TODO: React Basics
 - [x] Create react app. DONE
 - [x] Create Components
-- [ ] Create Styling Example
+- [x] Create Styling Examples
 - [ ] Create Props Example
 - [ ] Create Proptypes Example
 - [ ] Create Button onClick Functional Component 
